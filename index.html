@@ -1,0 +1,28 @@
+<!DOCTYPE html>
+<html lang="uk">
+<head>
+  <meta charset="UTF-8">
+  <title>Пошук проєктів JASU 2025</title>
+  <link rel="stylesheet" href="css/styles.css">
+</head>
+<body>
+  <div class="container">
+    <h1>Пошук проєктів JASU 2025</h1>
+    <div class="controls">
+      <input type="text" id="searchInput" placeholder="Введіть назву проєкту...">
+      <select id="branchFilter">
+        <option value="">Всі галузі</option>
+      </select>
+      <select id="regionFilter">
+        <option value="">Всі області</option>
+      </select>
+    </div>
+    <div id="projectsContainer"></div>
+  </div>
+  <div id="photoModal" class="modal" style="display:none;">
+    <span class="modal-close" id="modalClose">&times;</span>
+    <img class="modal-content" id="modalImg" src="" alt="Фото проєкту">
+  </div>
+  <script src="js/script.js"></script>
+</body>
+</html>
