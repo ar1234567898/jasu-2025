@@ -35,7 +35,7 @@ let consecutiveMissing = 0;
       if (!imgSrc) {
         consecutiveMissing++;
         console.log(
-          `ID ${id}: ⚠️ No image found (${consecutiveMissing} missing in a row)`
+          `ID ${id}: ⚠️ No image found (${consecutiveMissing} missing in a row)`w
         );
 
         if (consecutiveMissing >= 2) {
