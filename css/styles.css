@@ -72,6 +72,13 @@ input, select {
   font-weight: bold;
   font-size: 18px;
   margin-bottom: 8px;
+  overflow: hidden;
+  text-overflow: ellipsis;
+  display: -webkit-box;
+  -webkit-line-clamp: 3;    /* Show up to 3 lines */
+  -webkit-box-orient: vertical;
+  max-width: 100%;
+  white-space: normal;
 }
 .project-card .links {
   margin-top: 10px;
@@ -81,6 +88,15 @@ input, select {
   text-decoration: none;
   margin-right: 10px;
   font-size: 14px;
+}
+.project-card .section {
+  margin: 8px 0 0 0;
+  font-size: 15px;
+  color: #444;
+}
+.project-card .section span {
+  font-weight: bold;
+  color: #1976d2;
 }
   /* Modal styles */
 .modal {

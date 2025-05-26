@@ -1,25 +1,41 @@
 let projects = [];
 let images = {};
+let participants = [];
 const projectsContainer = document.getElementById('projectsContainer');
 const searchInput = document.getElementById('searchInput');
 const branchFilter = document.getElementById('branchFilter');
 const regionFilter = document.getElementById('regionFilter');
+const sectionFilter = document.getElementById('sectionFilter');
+const placeFilter = document.getElementById('placeFilter');
+const minMark = document.getElementById('minMark');
 
 // Load both data files
 Promise.all([
-  fetch('js/table-data.json').then(res => res.json()),
+  fetch('js/table-data-compsci.json').then(res => res.json()),
   fetch('images.json').then(res => res.json())
 ]).then(([data, imgData]) => {
-  projects = data.filter(arr => Array.isArray(arr) && arr.length >= 6 && arr[1] && arr[2] && arr[3]);
+  projects = data.filter(obj => obj && obj.title && obj.branch && obj.region);
   images = imgData;
   renderFilters();
   renderProjects();
 });
 
+// Load participants data
+fetch('js/participants_by_name.json')
+  .then(res => res.json())
+  .then(data => {
+    participants = data;
+    renderFiltersExtended();
+    renderProjects();
+  });
+
 function renderFilters() {
   // Unique branches and regions
-  const branches = [...new Set(projects.map(p => p[2]))].sort();
-  const regions = [...new Set(projects.map(p => p[3]))].sort();
+  const branches = [...new Set(projects.map(p => p.branch))].sort();
+  const regions = [...new Set(projects.map(p => p.region))].sort();
+
+  branchFilter.innerHTML = '<option value="">Всі галузі</option>';
+  regionFilter.innerHTML = '<option value="">Всі області</option>';
 
   branches.forEach(branch => {
     const opt = document.createElement('option');
@@ -35,16 +51,43 @@ function renderFilters() {
   });
 }
 
+// Extend filters for section and place
+function renderFiltersExtended() {
+  // Sections from projects
+  const sections = [...new Set(projects.map(p => p.section).filter(Boolean))].sort();
+  sectionFilter.innerHTML = '<option value="">Всі секції</option>';
+  sections.forEach(section => {
+    const opt = document.createElement('option');
+    opt.value = section;
+    opt.textContent = section;
+    sectionFilter.appendChild(opt);
+  });
+}
+
 function renderProjects() {
   const search = searchInput.value.trim().toLowerCase();
   const branch = branchFilter.value;
   const region = regionFilter.value;
+  const section = sectionFilter.value;
+  const place = placeFilter.value;
+  const min = parseFloat(minMark.value) || -Infinity;
 
   const filtered = projects.filter(p => {
-    const nameMatch = !search || p[1].toLowerCase().includes(search);
-    const branchMatch = !branch || p[2] === branch;
-    const regionMatch = !region || p[3] === region;
-    return nameMatch && branchMatch && regionMatch;
+    const nameMatch = !search || p.title.toLowerCase().includes(search);
+    const branchMatch = !branch || p.branch === branch;
+    const regionMatch = !region || p.region === region;
+    const sectionMatch = !section || p.section === section;
+
+    // Find participant by author name (if available)
+    let participant = null;
+    if (p.author) {
+      const authorName = p.author.replace(/^Автор:\s*/, '').trim();
+      participant = participants.find(part => part.name === authorName);
+    }
+    const placeMatch = !place || (participant && (participant.place === place || (place === '-' && !participant.place)));
+    const markMatch = !minMark.value || (participant && participant.gen_mark >= min);
+
+    return nameMatch && branchMatch && regionMatch && sectionMatch && placeMatch && markMatch;
   });
 
   projectsContainer.innerHTML = filtered.length
@@ -53,18 +96,33 @@ function renderProjects() {
 }
 
 function projectCardHTML(p) {
+  let participantInfo = '';
+  if (p.author) {
+    const authorName = p.author.replace(/^Автор:\s*/, '').trim();
+    const participant = participants.find(part => part.name === authorName);
+    if (participant) {
+      participantInfo = `
+        <div class="participant-info">
+          <span>Місце: <b>${participant.place || '-'}</b></span>
+          <span>Загальний бал: <b>${participant.gen_mark || '-'}</b></span>
+        </div>
+      `;
+    }
+  }
   return `
     <div class="project-card">
-      <div class="project-id">#${p[0]}</div>
+      <div class="project-id">#${p.id}</div>
       <div class="corner">
-        <div>${p[3]}</div>
-        <div>${p[2]}</div>
+        <div>${p.region}</div>
+        <div>${p.branch}</div>
       </div>
-      <img src="${getImageFromId(p[0])}" alt="Фото проєкту" class="card-img" data-full="${getImageFromId(p[0])}" onerror="this.src='https://via.placeholder.com/320x160?text=No+Image';">
-      <div class="name">${p[1]}</div>
+      <img src="${getImageFromId(p.id)}" alt="Фото проєкту" class="card-img" data-full="${getImageFromId(p.id)}" onerror="this.src='https://via.placeholder.com/320x160?text=No+Image';">
+      <div class="name">${p.title}</div>
+      ${p.section ? `<div class="section">Секція: <span>${p.section}</span></div>` : ""}
+      ${participantInfo}
       <div class="links">
-        <a href="${p[4]}" target="_blank">Деталі</a>
-        <a href="${p[5]}" target="_blank">Віртуальний постер</a>
+        <a href="${p.details_url}" target="_blank">Деталі</a>
+        <a href="${p.booth_url}" target="_blank">Віртуальний постер</a>
       </div>
     </div>
   `;
@@ -78,6 +136,9 @@ function getImageFromId(id) {
 searchInput.addEventListener('input', renderProjects);
 branchFilter.addEventListener('change', renderProjects);
 regionFilter.addEventListener('change', renderProjects);
+sectionFilter.addEventListener('change', renderProjects);
+placeFilter.addEventListener('change', renderProjects);
+minMark.addEventListener('input', renderProjects);
 
 // Modal logic
 const modal = document.getElementById('photoModal');

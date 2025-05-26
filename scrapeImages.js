@@ -1,55 +1,31 @@
-const axios = require("axios");
-const cheerio = require("cheerio");
-const fs = require("fs");
+const fs = require('fs');
+const axios = require('axios');
+const cheerio = require('cheerio');
 
-const baseUrl = "https://jasu2025.eu/virtual-booth.php?id=";
-const result = {};
-let id = 1;
-let consecutiveMissing = 0;
+const inputPath = 'js/table-data-compsci.json';
+const outputPath = 'js/table-data-compsci-with-authors.json';
 
 (async () => {
-  while (true) {
-    const url = `${baseUrl}${id}`;
+  const data = JSON.parse(fs.readFileSync(inputPath, 'utf8'));
+  for (let i = 0; i < data.length; i++) {
+    const project = data[i];
+    if (!project.details_url) continue;
     try {
-      const response = await axios.get(url, {
-        validateStatus: (status) => status < 500, // Handle 404 manually
-      });
-
-      if (response.status === 404) {
-        console.log(`❌ Page ${id} not found (404). Stopping.`);
-        break;
+      const res = await axios.get(project.details_url);
+      const $ = cheerio.load(res.data);
+      const strongs = $('.col-md-6 strong');
+      if (strongs.length >= 2) {
+        project.author = $(strongs[1]).text().trim();
+        console.log(`ID ${project.id}: ${project.author}`);
+      } else {
+        project.author = '';
+        console.log(`ID ${project.id}: author not found`);
       }
-
-      const $ = cheerio.load(response.data);
-      const imgSrc = $(".grid-image2").attr("src");
-
-      if (imgSrc) {
-        const fullUrl = imgSrc.startsWith("http")
-          ? imgSrc
-          : `https://jasu2025.eu/${imgSrc}`;
-        result[id] = fullUrl;
-        console.log(`ID ${id}: ✅ Image found`);
-        consecutiveMissing = 0; // reset counter
-      }
-
-      if (!imgSrc) {
-        consecutiveMissing++;
-        console.log(
-          `ID ${id}: ⚠️ No image found (${consecutiveMissing} missing in a row)`w
-        );
-
-        if (consecutiveMissing >= 2) {
-          console.log(`🛑 Stopping: 2 images in a row not found.`);
-          fs.writeFileSync("images.json", JSON.stringify(result, null, 2));
-          console.log("📁 Done. Saved to images.json");
-          break;
-        }
-      }
-
-      id++;
-    } catch (err) {
-      console.error(`❌ Error on ID ${id}:`, err.message);
-      break;
+    } catch (e) {
+      project.author = '';
+      console.log(`ID ${project.id}: error`);
     }
   }
+  fs.writeFileSync(outputPath, JSON.stringify(data, null, 2), 'utf8');
+  console.log('Done!');
 })();
