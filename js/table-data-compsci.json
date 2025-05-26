@@ -1,0 +1,1052 @@
+[
+  {
+    "id": "392",
+    "title": "Розробка онлайн-платформи для психологічної допомоги",
+    "branch": "Інформаційні технології",
+    "region": "Волинська",
+    "details_url": "https://jasu2025.eu/innovation-details.php?id=392",
+    "booth_url": "https://jasu2025.eu/virtual-booth.php?id=392",
+    "section": "Програмна інженерія",
+    "author": "Автор: Погинець Софія Андріївна"
+  },
+  {
+    "id": "393",
+    "title": "Використання геоінформаційних систем у сфері збереження геологічних пам’яток на прикладі залишків Сурського порогу",
+    "branch": "Інформаційні технології",
+    "region": "Дніпропетровська",
+    "details_url": "https://jasu2025.eu/innovation-details.php?id=393",
+    "booth_url": "https://jasu2025.eu/virtual-booth.php?id=393",
+    "section": "Інтернет-технології та вебдизайн",
+    "author": "Автор: Журба Ростислав Сергійович"
+  },
+  {
+    "id": "394",
+    "title": "Дослідження та розробка архітектури вебзастосунку для обміну конфіденційними повідомленнями в корпоративних мережах",
+    "branch": "Інформаційні технології",
+    "region": "Донецька",
+    "details_url": "https://jasu2025.eu/innovation-details.php?id=394",
+    "booth_url": "https://jasu2025.eu/virtual-booth.php?id=394",
+    "section": "Програмна інженерія",
+    "author": "Автор: Басараб Богдан Юрійович"
+  },
+  {
+    "id": "395",
+    "title": "Створення онлайн-платформи для комунікації між замовниками та фахівцями",
+    "branch": "Інформаційні технології",
+    "region": "Житомирська",
+    "details_url": "https://jasu2025.eu/innovation-details.php?id=395",
+    "booth_url": "https://jasu2025.eu/virtual-booth.php?id=395",
+    "section": "Інтернет-технології та вебдизайн",
+    "author": "Автор: Чижевський Володимир Володимирович"
+  },
+  {
+    "id": "396",
+    "title": "Вебдизайн для культурного обміну: розробка сайту для поширення книжкових уподобань",
+    "branch": "Інформаційні технології",
+    "region": "Закарпатська",
+    "details_url": "https://jasu2025.eu/innovation-details.php?id=396",
+    "booth_url": "https://jasu2025.eu/virtual-booth.php?id=396",
+    "section": "Програмна інженерія",
+    "author": "Автор: Ларіна Анастасія Олександрівна"
+  },
+  {
+    "id": "397",
+    "title": "Програмний застосунок для соціального шкільного підприємця",
+    "branch": "Інформаційні технології",
+    "region": "Запорізька",
+    "details_url": "https://jasu2025.eu/innovation-details.php?id=397",
+    "booth_url": "https://jasu2025.eu/virtual-booth.php?id=397",
+    "section": "Програмна інженерія",
+    "author": "Автор: Лисенко Анна Іванівна"
+  },
+  {
+    "id": "398",
+    "title": "Автоматизована система збору та кластеризації новин із різних джерел",
+    "branch": "Інформаційні технології",
+    "region": "Івано-Франківська",
+    "details_url": "https://jasu2025.eu/innovation-details.php?id=398",
+    "booth_url": "https://jasu2025.eu/virtual-booth.php?id=398",
+    "section": "Комп’ютерна інженерія",
+    "author": "Автор: Досин Андрій Володимирович"
+  },
+  {
+    "id": "399",
+    "title": "Система моніторингу робочої активності працівників",
+    "branch": "Інформаційні технології",
+    "region": "Кіровоградська",
+    "details_url": "https://jasu2025.eu/innovation-details.php?id=399",
+    "booth_url": "https://jasu2025.eu/virtual-booth.php?id=399",
+    "section": "Комп’ютерна інженерія",
+    "author": "Автор: Манько Ілля Романович"
+  },
+  {
+    "id": "400",
+    "title": "AutoLog: управління витратами авто",
+    "branch": "Інформаційні технології",
+    "region": "Львівська",
+    "details_url": "https://jasu2025.eu/innovation-details.php?id=400",
+    "booth_url": "https://jasu2025.eu/virtual-booth.php?id=400",
+    "section": "Інтернет-технології та вебдизайн",
+    "author": "Автор: Вовчанський Олег Миколайович"
+  },
+  {
+    "id": "401",
+    "title": "Розробка месенджера Pinger для безпечного зв’язку і передачі даних",
+    "branch": "Інформаційні технології",
+    "region": "Одеська",
+    "details_url": "https://jasu2025.eu/innovation-details.php?id=401",
+    "booth_url": "https://jasu2025.eu/virtual-booth.php?id=401",
+    "section": "Програмна інженерія",
+    "author": "Автор: Фасоля Михайло Вадимович"
+  },
+  {
+    "id": "402",
+    "title": "Розробка інформаційної системи для медичних потреб",
+    "branch": "Інформаційні технології",
+    "region": "Полтавська",
+    "details_url": "https://jasu2025.eu/innovation-details.php?id=402",
+    "booth_url": "https://jasu2025.eu/virtual-booth.php?id=402",
+    "section": "Програмна інженерія",
+    "author": "Автор: Лоза Максим Вадимович"
+  },
+  {
+    "id": "403",
+    "title": "Онлайн-платформа освітніх винагород EdCoins",
+    "branch": "Інформаційні технології",
+    "region": "Рівненська",
+    "details_url": "https://jasu2025.eu/innovation-details.php?id=403",
+    "booth_url": "https://jasu2025.eu/virtual-booth.php?id=403",
+    "section": "Комп’ютерна інженерія",
+    "author": "Автор: Муха Володимир Олександрович"
+  },
+  {
+    "id": "404",
+    "title": "Використання Firebase для зберігання та управління даними у вебзастосунках",
+    "branch": "Інформаційні технології",
+    "region": "Сумська",
+    "details_url": "https://jasu2025.eu/innovation-details.php?id=404",
+    "booth_url": "https://jasu2025.eu/virtual-booth.php?id=404",
+    "section": "Інтернет-технології та вебдизайн",
+    "author": "Автор: Третяк Дарина Андріївна"
+  },
+  {
+    "id": "405",
+    "title": "EcoHabit – крок до екологічних змін",
+    "branch": "Інформаційні технології",
+    "region": "Тернопільська",
+    "details_url": "https://jasu2025.eu/innovation-details.php?id=405",
+    "booth_url": "https://jasu2025.eu/virtual-booth.php?id=405",
+    "section": "Інтернет-технології та вебдизайн",
+    "author": "Автор: Гарвасюк Андрій Віталійович"
+  },
+  {
+    "id": "406",
+    "title": "Вузол потокового навчання комунікаційної освіти",
+    "branch": "Інформаційні технології",
+    "region": "Харківська",
+    "details_url": "https://jasu2025.eu/innovation-details.php?id=406",
+    "booth_url": "https://jasu2025.eu/virtual-booth.php?id=406",
+    "section": "Інтернет-технології та вебдизайн",
+    "author": "Автор: Вайнштейн Артем Олегович"
+  },
+  {
+    "id": "407",
+    "title": "Розробка навчального вебсайту First Step",
+    "branch": "Інформаційні технології",
+    "region": "Херсонська",
+    "details_url": "https://jasu2025.eu/innovation-details.php?id=407",
+    "booth_url": "https://jasu2025.eu/virtual-booth.php?id=407",
+    "section": "Програмна інженерія",
+    "author": "Автор: Чекотун Аріна Артурівна"
+  },
+  {
+    "id": "408",
+    "title": "Інформаційна система пошуку дому для тварин за допомогою таргетованої реклами на основі обробки Великих даних",
+    "branch": "Інформаційні технології",
+    "region": "Хмельницька",
+    "details_url": "https://jasu2025.eu/innovation-details.php?id=408",
+    "booth_url": "https://jasu2025.eu/virtual-booth.php?id=408",
+    "section": "Комп’ютерна інженерія",
+    "author": "Автор: Заганяч Софі Миколаївна"
+  },
+  {
+    "id": "409",
+    "title": "Дослідження чинників популярності українських літературних вебсайтів: кейс сайту, присвяченого Василю Симоненку",
+    "branch": "Інформаційні технології",
+    "region": "Черкаська",
+    "details_url": "https://jasu2025.eu/innovation-details.php?id=409",
+    "booth_url": "https://jasu2025.eu/virtual-booth.php?id=409",
+    "section": "Інтернет-технології та вебдизайн",
+    "author": "Автор: Науменко Анастасія Олександрівна"
+  },
+  {
+    "id": "410",
+    "title": "Чат-бот з елементами штучного інтелекту для допомоги абітурієнтам (на прикладі Чернігівського обласного наукового ліцею)",
+    "branch": "Інформаційні технології",
+    "region": "Чернігівська",
+    "details_url": "https://jasu2025.eu/innovation-details.php?id=410",
+    "booth_url": "https://jasu2025.eu/virtual-booth.php?id=410",
+    "section": "Інтернет-технології та вебдизайн",
+    "author": "Автор: Щербаков Артем Олексійович"
+  },
+  {
+    "id": "411",
+    "title": "Візуалізація 3D-моделей у вебсередовищі з використанням Babylon.js",
+    "branch": "Інформаційні технології",
+    "region": "м. Київ",
+    "details_url": "https://jasu2025.eu/innovation-details.php?id=411",
+    "booth_url": "https://jasu2025.eu/virtual-booth.php?id=411",
+    "section": "Інтернет-технології та вебдизайн",
+    "author": "Автор: Височинський Тимофій Олексійович"
+  },
+  {
+    "id": "412",
+    "title": "Система розпізнавання фішингових повідомлень",
+    "branch": "Інформаційні технології",
+    "region": "Волинська",
+    "details_url": "https://jasu2025.eu/innovation-details.php?id=412",
+    "booth_url": "https://jasu2025.eu/virtual-booth.php?id=412",
+    "section": "Комп’ютерна інженерія",
+    "author": "Автор: Королюк Соломія Сергіївна"
+  },
+  {
+    "id": "413",
+    "title": "Розробка портативного детектора скімерів",
+    "branch": "Інформаційні технології",
+    "region": "Дніпропетровська",
+    "details_url": "https://jasu2025.eu/innovation-details.php?id=413",
+    "booth_url": "https://jasu2025.eu/virtual-booth.php?id=413",
+    "section": "Кібербезпека",
+    "author": "Автор: Тимченко Дмитро Олександрович"
+  },
+  {
+    "id": "414",
+    "title": "Розробка програмного забезпечення для підвищення безпеки та оптимізації роботи комп’ютера",
+    "branch": "Інформаційні технології",
+    "region": "Закарпатська",
+    "details_url": "https://jasu2025.eu/innovation-details.php?id=414",
+    "booth_url": "https://jasu2025.eu/virtual-booth.php?id=414",
+    "section": "Комп’ютерна інженерія",
+    "author": "Автор: Чопик Владислав Ростиславович"
+  },
+  {
+    "id": "415",
+    "title": "Децентралізовані системи голосування на основі блокчейну",
+    "branch": "Інформаційні технології",
+    "region": "Запорізька",
+    "details_url": "https://jasu2025.eu/innovation-details.php?id=415",
+    "booth_url": "https://jasu2025.eu/virtual-booth.php?id=415",
+    "section": "Інтернет-технології та вебдизайн",
+    "author": "Автор: Маринич Платон Володимирович"
+  },
+  {
+    "id": "416",
+    "title": "Аналіз атак соціальної інженерії і розробка додатка для навчання та допомоги",
+    "branch": "Інформаційні технології",
+    "region": "Івано-Франківська",
+    "details_url": "https://jasu2025.eu/innovation-details.php?id=416",
+    "booth_url": "https://jasu2025.eu/virtual-booth.php?id=416",
+    "section": "Кібербезпека",
+    "author": "Автор: Щипка Марія Дмитрівна"
+  },
+  {
+    "id": "417",
+    "title": "Електронний помічник вахтера",
+    "branch": "Інформаційні технології",
+    "region": "Кіровоградська",
+    "details_url": "https://jasu2025.eu/innovation-details.php?id=417",
+    "booth_url": "https://jasu2025.eu/virtual-booth.php?id=417",
+    "section": "Інтернет-технології та вебдизайн",
+    "author": "Автор: Хоменко Дмитро Вікторович"
+  },
+  {
+    "id": "418",
+    "title": "Модифікований метод підвищення криптостійкості матричного шифру Гілла",
+    "branch": "Інформаційні технології",
+    "region": "Львівська",
+    "details_url": "https://jasu2025.eu/innovation-details.php?id=418",
+    "booth_url": "https://jasu2025.eu/virtual-booth.php?id=418",
+    "section": "Кібербезпека",
+    "author": "Автор: Глушик Михайло Тарасович"
+  },
+  {
+    "id": "419",
+    "title": "Шифратор / дешифратор тексту",
+    "branch": "Інформаційні технології",
+    "region": "Миколаївська",
+    "details_url": "https://jasu2025.eu/innovation-details.php?id=419",
+    "booth_url": "https://jasu2025.eu/virtual-booth.php?id=419",
+    "section": "Кібербезпека",
+    "author": "Автор: Сидоренко Роман Олександрович"
+  },
+  {
+    "id": "420",
+    "title": "ProtoFlex – утиліта  для призначення індивідуальних VPN-підключень до окремих додатків",
+    "branch": "Інформаційні технології",
+    "region": "Одеська",
+    "details_url": "https://jasu2025.eu/innovation-details.php?id=420",
+    "booth_url": "https://jasu2025.eu/virtual-booth.php?id=420",
+    "section": "Інтернет-технології та вебдизайн",
+    "author": "Автор: Лакаров Анатолій Андрійович"
+  },
+  {
+    "id": "421",
+    "title": "Генератор паролів TranslitPass",
+    "branch": "Інформаційні технології",
+    "region": "Полтавська",
+    "details_url": "https://jasu2025.eu/innovation-details.php?id=421",
+    "booth_url": "https://jasu2025.eu/virtual-booth.php?id=421",
+    "section": "Інтернет-технології та вебдизайн",
+    "author": "Автор: Драгомарецький Максим Олегович"
+  },
+  {
+    "id": "422",
+    "title": "Методи реверс-інжинірингу як інструмент виявлення вразливостей вебсайтів",
+    "branch": "Інформаційні технології",
+    "region": "Рівненська",
+    "details_url": "https://jasu2025.eu/innovation-details.php?id=422",
+    "booth_url": "https://jasu2025.eu/virtual-booth.php?id=422",
+    "section": "Інтернет-технології та вебдизайн",
+    "author": "Автор: Ліщинський Данило Костянтинович"
+  },
+  {
+    "id": "423",
+    "title": "Розробка алгоритмів дій при втраті персональних даних та їх застосування в чат-ботах",
+    "branch": "Інформаційні технології",
+    "region": "Сумська",
+    "details_url": "https://jasu2025.eu/innovation-details.php?id=423",
+    "booth_url": "https://jasu2025.eu/virtual-booth.php?id=423",
+    "section": "Програмна інженерія",
+    "author": "Автор: Ковбаса Богдан Романович"
+  },
+  {
+    "id": "424",
+    "title": "Методи та засоби цифрової криміналістичної експертизи енергонезалежної пам’яті цифрових пристроїв",
+    "branch": "Інформаційні технології",
+    "region": "Харківська",
+    "details_url": "https://jasu2025.eu/innovation-details.php?id=424",
+    "booth_url": "https://jasu2025.eu/virtual-booth.php?id=424",
+    "section": "Інтернет-технології та вебдизайн",
+    "author": "Автор: Нікітін Роман Микитович"
+  },
+  {
+    "id": "425",
+    "title": "Удосконалений метод та засоби виявлення кібератак соціальної інженерії через чати",
+    "branch": "Інформаційні технології",
+    "region": "Хмельницька",
+    "details_url": "https://jasu2025.eu/innovation-details.php?id=425",
+    "booth_url": "https://jasu2025.eu/virtual-booth.php?id=425",
+    "section": "Кібербезпека",
+    "author": "Автор: Віннічук Роман Михайлович"
+  },
+  {
+    "id": "426",
+    "title": "Розробка системи виявлення фейкових новин на Python",
+    "branch": "Інформаційні технології",
+    "region": "м. Київ",
+    "details_url": "https://jasu2025.eu/innovation-details.php?id=426",
+    "booth_url": "https://jasu2025.eu/virtual-booth.php?id=426",
+    "section": "Програмна інженерія",
+    "author": "Автор: Величко Гліб Дмитрович"
+  },
+  {
+    "id": "427",
+    "title": "Розробка роботизованої колісної платформи",
+    "branch": "Інформаційні технології",
+    "region": "Волинська",
+    "details_url": "https://jasu2025.eu/innovation-details.php?id=427",
+    "booth_url": "https://jasu2025.eu/virtual-booth.php?id=427",
+    "section": "Комп’ютерна інженерія",
+    "author": "Автор: Вовк Данило Сергійович"
+  },
+  {
+    "id": "428",
+    "title": "Персональна система звʼязку в умовах блекаутів",
+    "branch": "Інформаційні технології",
+    "region": "Дніпропетровська",
+    "details_url": "https://jasu2025.eu/innovation-details.php?id=428",
+    "booth_url": "https://jasu2025.eu/virtual-booth.php?id=428",
+    "section": "Комп’ютерна інженерія",
+    "author": "Автор: Хорольський Іван Юрійович"
+  },
+  {
+    "id": "429",
+    "title": "Застосування мікроконтролерних платформ для управління власним часом",
+    "branch": "Інформаційні технології",
+    "region": "Донецька",
+    "details_url": "https://jasu2025.eu/innovation-details.php?id=429",
+    "booth_url": "https://jasu2025.eu/virtual-booth.php?id=429",
+    "section": "Інтернет-технології та вебдизайн",
+    "author": "Автор: Литвин Нікіта Олександрович"
+  },
+  {
+    "id": "430",
+    "title": "Моделювання хімічних процесів за допомогою програмування",
+    "branch": "Інформаційні технології",
+    "region": "Житомирська",
+    "details_url": "https://jasu2025.eu/innovation-details.php?id=430",
+    "booth_url": "https://jasu2025.eu/virtual-booth.php?id=430",
+    "section": "Програмна інженерія",
+    "author": "Автор: Іщук Анастасія Олександрівна"
+  },
+  {
+    "id": "431",
+    "title": "Можливості використання нейронної мережі YOLO при розробці жилету з сенсорами, датчиками та камерами, які працюють для покращення просторової орієнтації сліпих та слабозрячих осіб",
+    "branch": "Інформаційні технології",
+    "region": "Закарпатська",
+    "details_url": "https://jasu2025.eu/innovation-details.php?id=431",
+    "booth_url": "https://jasu2025.eu/virtual-booth.php?id=431",
+    "section": "Системи та технології штучного інтелекту",
+    "author": "Автор: Голомідов Валентин Миколайович"
+  },
+  {
+    "id": "432",
+    "title": "Розробка платформи для фрілансу",
+    "branch": "Інформаційні технології",
+    "region": "Івано-Франківська",
+    "details_url": "https://jasu2025.eu/innovation-details.php?id=432",
+    "booth_url": "https://jasu2025.eu/virtual-booth.php?id=432",
+    "section": "Програмна інженерія",
+    "author": "Автор: Гальчинський Григорій Вікторович"
+  },
+  {
+    "id": "433",
+    "title": "Розробка технології керування польотом «PhAInix» для БПЛА під час дії РЕБ противника на основі технології IoT з використанням штучного інтелекту",
+    "branch": "Інформаційні технології",
+    "region": "Київська",
+    "details_url": "https://jasu2025.eu/innovation-details.php?id=433",
+    "booth_url": "https://jasu2025.eu/virtual-booth.php?id=433",
+    "section": "Програмна інженерія",
+    "author": "Автор: Добровольський Вадим Володимирович"
+  },
+  {
+    "id": "434",
+    "title": "Детектор наявності тарганів",
+    "branch": "Інформаційні технології",
+    "region": "Кіровоградська",
+    "details_url": "https://jasu2025.eu/innovation-details.php?id=434",
+    "booth_url": "https://jasu2025.eu/virtual-booth.php?id=434",
+    "section": "Кібербезпека",
+    "author": "Автор: Бабак Анастасія Олегівна"
+  },
+  {
+    "id": "435",
+    "title": "Програмна реалізація системи запобігання надмірному викиду вуглецевих сполук у середовище",
+    "branch": "Інформаційні технології",
+    "region": "Львівська",
+    "details_url": "https://jasu2025.eu/innovation-details.php?id=435",
+    "booth_url": "https://jasu2025.eu/virtual-booth.php?id=435",
+    "section": "Програмна інженерія",
+    "author": "Автор: Сенюра Юрій Віталійович"
+  },
+  {
+    "id": "436",
+    "title": "Практичне застосування робототехнічної платформи Arduino",
+    "branch": "Інформаційні технології",
+    "region": "Полтавська",
+    "details_url": "https://jasu2025.eu/innovation-details.php?id=436",
+    "booth_url": "https://jasu2025.eu/virtual-booth.php?id=436",
+    "section": "Комп’ютерна інженерія",
+    "author": "Автор: Куда Дмитро Володимирович"
+  },
+  {
+    "id": "437",
+    "title": "Портативний навчальний радар",
+    "branch": "Інформаційні технології",
+    "region": "Рівненська",
+    "details_url": "https://jasu2025.eu/innovation-details.php?id=437",
+    "booth_url": "https://jasu2025.eu/virtual-booth.php?id=437",
+    "section": "Навчальні, ігрові програми та віртуальна реальність",
+    "author": "Автор: Геращенко Максим Михайлович"
+  },
+  {
+    "id": "438",
+    "title": "Візуальна навігація БПЛА за ключовими регіонами",
+    "branch": "Інформаційні технології",
+    "region": "Харківська",
+    "details_url": "https://jasu2025.eu/innovation-details.php?id=438",
+    "booth_url": "https://jasu2025.eu/virtual-booth.php?id=438",
+    "section": "Інтернет-технології та вебдизайн",
+    "author": "Автор: Дергачов Микита Костянтинович"
+  },
+  {
+    "id": "439",
+    "title": "Інтелектуальна система управління освітленням на базі мікроконтролера",
+    "branch": "Інформаційні технології",
+    "region": "Хмельницька",
+    "details_url": "https://jasu2025.eu/innovation-details.php?id=439",
+    "booth_url": "https://jasu2025.eu/virtual-booth.php?id=439",
+    "section": "Комп’ютерна інженерія",
+    "author": "Автор: Артьоменко Дар'я Олексіївна"
+  },
+  {
+    "id": "440",
+    "title": "Програмно-технічна розробка системи для рятувальних операцій",
+    "branch": "Інформаційні технології",
+    "region": "Черкаська",
+    "details_url": "https://jasu2025.eu/innovation-details.php?id=440",
+    "booth_url": "https://jasu2025.eu/virtual-booth.php?id=440",
+    "section": "Програмна інженерія",
+    "author": "Автор: Розгон Назарій Романович"
+  },
+  {
+    "id": "441",
+    "title": "Гуманна розумна інноваційна мишоловка «ГРІМ» (на основі мікрокомп’ютера  micro:bit v.2.2)",
+    "branch": "Інформаційні технології",
+    "region": "Чернігівська",
+    "details_url": "https://jasu2025.eu/innovation-details.php?id=441",
+    "booth_url": "https://jasu2025.eu/virtual-booth.php?id=441",
+    "section": "Комп’ютерна інженерія",
+    "author": "Автор: Павлюк Ярослав Вікторович"
+  },
+  {
+    "id": "442",
+    "title": "Розробка програмно-апаратного комплексу для визначення технічних характеристик пропелерів експериментальним шляхом",
+    "branch": "Інформаційні технології",
+    "region": "м. Київ",
+    "details_url": "https://jasu2025.eu/innovation-details.php?id=442",
+    "booth_url": "https://jasu2025.eu/virtual-booth.php?id=442",
+    "section": "Комп’ютерна інженерія",
+    "author": "Автор: Сапсай Ростислав Сергійович"
+  },
+  {
+    "id": "443",
+    "title": "Розробка мобільного застосунку для організації та управління позакласними заняттями",
+    "branch": "Інформаційні технології",
+    "region": "Волинська",
+    "details_url": "https://jasu2025.eu/innovation-details.php?id=443",
+    "booth_url": "https://jasu2025.eu/virtual-booth.php?id=443",
+    "section": "Програмна інженерія",
+    "author": "Автор: Стеблевець Олександр Олександрович"
+  },
+  {
+    "id": "444",
+    "title": "Навчальна гра з основ медіації в умовах війни з використанням LLM",
+    "branch": "Інформаційні технології",
+    "region": "Дніпропетровська",
+    "details_url": "https://jasu2025.eu/innovation-details.php?id=444",
+    "booth_url": "https://jasu2025.eu/virtual-booth.php?id=444",
+    "section": "Навчальні, ігрові програми та віртуальна реальність",
+    "author": "Автор: Ількова Софія Василівна"
+  },
+  {
+    "id": "445",
+    "title": "Розробка комп’ютерної гри «Eco Village» як інструменту дослідження та формування екологічної свідомості",
+    "branch": "Інформаційні технології",
+    "region": "Донецька",
+    "details_url": "https://jasu2025.eu/innovation-details.php?id=445",
+    "booth_url": "https://jasu2025.eu/virtual-booth.php?id=445",
+    "section": "Комп’ютерна інженерія",
+    "author": "Автор: Сандульський Кирило Романович"
+  },
+  {
+    "id": "446",
+    "title": "Розробка вебплатформи для вивчення Сонячної системи",
+    "branch": "Інформаційні технології",
+    "region": "Житомирська",
+    "details_url": "https://jasu2025.eu/innovation-details.php?id=446",
+    "booth_url": "https://jasu2025.eu/virtual-booth.php?id=446",
+    "section": "Програмна інженерія",
+    "author": "Автор: Богінський Іван Альбертович"
+  },
+  {
+    "id": "447",
+    "title": "Вебзастосунок для формувального оцінювання учнів НУШ",
+    "branch": "Інформаційні технології",
+    "region": "Закарпатська",
+    "details_url": "https://jasu2025.eu/innovation-details.php?id=447",
+    "booth_url": "https://jasu2025.eu/virtual-booth.php?id=447",
+    "section": "Програмна інженерія",
+    "author": "Автор: Митровцій Павло Вікторович"
+  },
+  {
+    "id": "448",
+    "title": "Розробка та оцінка кросплатформової навчальної 2D-гри «Portal Adventure»",
+    "branch": "Інформаційні технології",
+    "region": "Івано-Франківська",
+    "details_url": "https://jasu2025.eu/innovation-details.php?id=448",
+    "booth_url": "https://jasu2025.eu/virtual-booth.php?id=448",
+    "section": "Програмна інженерія",
+    "author": "Автор: Третяк Михайло Петрович"
+  },
+  {
+    "id": "449",
+    "title": "Віртуальні інтерактивні лабораторні роботи з автоперевіркою",
+    "branch": "Інформаційні технології",
+    "region": "Київська",
+    "details_url": "https://jasu2025.eu/innovation-details.php?id=449",
+    "booth_url": "https://jasu2025.eu/virtual-booth.php?id=449",
+    "section": "Комп’ютерна інженерія",
+    "author": "Автор: Єрьомін Володимир Сергійович"
+  },
+  {
+    "id": "450",
+    "title": "Навчальний симулятор зон ураження вибухами в умовах урбаністичного ландшафту",
+    "branch": "Інформаційні технології",
+    "region": "Кіровоградська",
+    "details_url": "https://jasu2025.eu/innovation-details.php?id=450",
+    "booth_url": "https://jasu2025.eu/virtual-booth.php?id=450",
+    "section": "Навчальні, ігрові програми та віртуальна реальність",
+    "author": "Автор: Тютюнніков Артем Дмитрович"
+  },
+  {
+    "id": "451",
+    "title": "Навчально-ігрова програма з елементами природничих опитувань «Undead Guardian Of The Forest»",
+    "branch": "Інформаційні технології",
+    "region": "Львівська",
+    "details_url": "https://jasu2025.eu/innovation-details.php?id=451",
+    "booth_url": "https://jasu2025.eu/virtual-booth.php?id=451",
+    "section": "Навчальні, ігрові програми та віртуальна реальність",
+    "author": "Автор: Дідух Святослав Ігорович"
+  },
+  {
+    "id": "452",
+    "title": "Навчальна програма для моделювання та підбору черепно-мозкових імплантів, що усуває дефекти черепа людини",
+    "branch": "Інформаційні технології",
+    "region": "Полтавська",
+    "details_url": "https://jasu2025.eu/innovation-details.php?id=452",
+    "booth_url": "https://jasu2025.eu/virtual-booth.php?id=452",
+    "section": "Навчальні, ігрові програми та віртуальна реальність",
+    "author": "Автор: Коваль Олександр Сергійович"
+  },
+  {
+    "id": "453",
+    "title": "Розробка історичної гри з поєднанням жанрів стратегії та екшену",
+    "branch": "Інформаційні технології",
+    "region": "Рівненська",
+    "details_url": "https://jasu2025.eu/innovation-details.php?id=453",
+    "booth_url": "https://jasu2025.eu/virtual-booth.php?id=453",
+    "section": "Програмна інженерія",
+    "author": "Автор: Мацевич Назарій Дмитрович"
+  },
+  {
+    "id": "454",
+    "title": "Додаток для статистичної обробки результатів експерименту",
+    "branch": "Інформаційні технології",
+    "region": "Сумська",
+    "details_url": "https://jasu2025.eu/innovation-details.php?id=454",
+    "booth_url": "https://jasu2025.eu/virtual-booth.php?id=454",
+    "section": "Програмна інженерія",
+    "author": "Автор: Базуріна Софія Віталіївна"
+  },
+  {
+    "id": "455",
+    "title": "Розробка ігрового застосунку навчального призначення в стилі Іsometric casual game засобами godot game engine",
+    "branch": "Інформаційні технології",
+    "region": "Харківська",
+    "details_url": "https://jasu2025.eu/innovation-details.php?id=455",
+    "booth_url": "https://jasu2025.eu/virtual-booth.php?id=455",
+    "section": "Програмна інженерія",
+    "author": "Автор: Рижова Валерія Володимирівна"
+  },
+  {
+    "id": "456",
+    "title": "3D-моделювання. Побудова моделей до проєкту відновлення Херсону",
+    "branch": "Інформаційні технології",
+    "region": "Херсонська",
+    "details_url": "https://jasu2025.eu/innovation-details.php?id=456",
+    "booth_url": "https://jasu2025.eu/virtual-booth.php?id=456",
+    "section": "Інтернет-технології та вебдизайн",
+    "author": "Автор: Лініх Вероніка Олегівна"
+  },
+  {
+    "id": "457",
+    "title": "Розробка ігрового симулятора керування рухом морського дрона",
+    "branch": "Інформаційні технології",
+    "region": "Хмельницька",
+    "details_url": "https://jasu2025.eu/innovation-details.php?id=457",
+    "booth_url": "https://jasu2025.eu/virtual-booth.php?id=457",
+    "section": "Програмна інженерія",
+    "author": "Автор: Коновал Владислав Романович"
+  },
+  {
+    "id": "458",
+    "title": "Перетворення математичних функцій у мелодії",
+    "branch": "Інформаційні технології",
+    "region": "Черкаська",
+    "details_url": "https://jasu2025.eu/innovation-details.php?id=458",
+    "booth_url": "https://jasu2025.eu/virtual-booth.php?id=458",
+    "section": "Інтернет-технології та вебдизайн",
+    "author": "Автор: Кусяк Максим Юрійович"
+  },
+  {
+    "id": "459",
+    "title": "Розвиток безпекових навичок у дітей середнього шкільного віку з використанням тренажера «Safe and Step»",
+    "branch": "Інформаційні технології",
+    "region": "Чернігівська",
+    "details_url": "https://jasu2025.eu/innovation-details.php?id=459",
+    "booth_url": "https://jasu2025.eu/virtual-booth.php?id=459",
+    "section": "Інтернет-технології та вебдизайн",
+    "author": "Автор: Пригоровська Анна Сергіївна"
+  },
+  {
+    "id": "460",
+    "title": "Додаток «SpeakLoud» для допомоги у практиці та покращенні спілкування на основі штучного інтелекту",
+    "branch": "Інформаційні технології",
+    "region": "м. Київ",
+    "details_url": "https://jasu2025.eu/innovation-details.php?id=460",
+    "booth_url": "https://jasu2025.eu/virtual-booth.php?id=460",
+    "section": "Програмна інженерія",
+    "author": "Автор: Телефус Артем Андрійович"
+  },
+  {
+    "id": "461",
+    "title": "Розробка програмного забезпечення для розпізнавання об’єктів FPV-дронами",
+    "branch": "Інформаційні технології",
+    "region": "Волинська",
+    "details_url": "https://jasu2025.eu/innovation-details.php?id=461",
+    "booth_url": "https://jasu2025.eu/virtual-booth.php?id=461",
+    "section": "Програмна інженерія",
+    "author": "Автор: Петрук Михайло Олександрович"
+  },
+  {
+    "id": "462",
+    "title": "Виявлення картографічної інформації в текстових документах",
+    "branch": "Інформаційні технології",
+    "region": "Дніпропетровська",
+    "details_url": "https://jasu2025.eu/innovation-details.php?id=462",
+    "booth_url": "https://jasu2025.eu/virtual-booth.php?id=462",
+    "section": "Навчальні, ігрові програми та віртуальна реальність",
+    "author": "Автор: Четвертак Олег Романович"
+  },
+  {
+    "id": "463",
+    "title": "Використання комп’ютерних технологій для створення інтерактивного вебсайту з  вивчення вибухонебезпечних предметів «SAFESTEP»",
+    "branch": "Інформаційні технології",
+    "region": "Донецька",
+    "details_url": "https://jasu2025.eu/innovation-details.php?id=463",
+    "booth_url": "https://jasu2025.eu/virtual-booth.php?id=463",
+    "section": "Комп’ютерна інженерія",
+    "author": "Автор: Філь Дмитро Дмитрович"
+  },
+  {
+    "id": "464",
+    "title": "Методи оптимізації архітектури вебсервера для високопродуктивної обробки HTTP-запитів",
+    "branch": "Інформаційні технології",
+    "region": "Житомирська",
+    "details_url": "https://jasu2025.eu/innovation-details.php?id=464",
+    "booth_url": "https://jasu2025.eu/virtual-booth.php?id=464",
+    "section": "Інтернет-технології та вебдизайн",
+    "author": "Автор: Новицький Олексій Олександрович"
+  },
+  {
+    "id": "465",
+    "title": "Розроблення мобільних застосунків для Android та iOS",
+    "branch": "Інформаційні технології",
+    "region": "Закарпатська",
+    "details_url": "https://jasu2025.eu/innovation-details.php?id=465",
+    "booth_url": "https://jasu2025.eu/virtual-booth.php?id=465",
+    "section": "Програмна інженерія",
+    "author": "Автор: Жаба Дарина Василівна"
+  },
+  {
+    "id": "466",
+    "title": "Розробка програм для задачі на відновлення функціональної залежності з використанням інтерполяції",
+    "branch": "Інформаційні технології",
+    "region": "Запорізька",
+    "details_url": "https://jasu2025.eu/innovation-details.php?id=466",
+    "booth_url": "https://jasu2025.eu/virtual-booth.php?id=466",
+    "section": "Програмна інженерія",
+    "author": "Автор: Сольона Іларія Романівна"
+  },
+  {
+    "id": "467",
+    "title": "Автоматизований сервіс звукового оповіщення  уроків та надзвичайних ситуацій в начальних закладах",
+    "branch": "Інформаційні технології",
+    "region": "Івано-Франківська",
+    "details_url": "https://jasu2025.eu/innovation-details.php?id=467",
+    "booth_url": "https://jasu2025.eu/virtual-booth.php?id=467",
+    "section": "Програмна інженерія",
+    "author": "Автор: Гордій Святослав Дмитрович"
+  },
+  {
+    "id": "468",
+    "title": "Автоматизована система обліку відвідуваності lessonix для закладів освіти",
+    "branch": "Інформаційні технології",
+    "region": "Київська",
+    "details_url": "https://jasu2025.eu/innovation-details.php?id=468",
+    "booth_url": "https://jasu2025.eu/virtual-booth.php?id=468",
+    "section": "Комп’ютерна інженерія",
+    "author": "Автор: Потапенко Андрій Віталійович"
+  },
+  {
+    "id": "469",
+    "title": "Нейромережа для розумного бджолиного вулика «Bee-Pi»",
+    "branch": "Інформаційні технології",
+    "region": "Кіровоградська",
+    "details_url": "https://jasu2025.eu/innovation-details.php?id=469",
+    "booth_url": "https://jasu2025.eu/virtual-booth.php?id=469",
+    "section": "Інтернет-технології та вебдизайн",
+    "author": "Автор: Третяк Ольга Михайлівна"
+  },
+  {
+    "id": "470",
+    "title": "Озвучення презентацій. Перетворення презентацій у відеоформат",
+    "branch": "Інформаційні технології",
+    "region": "Львівська",
+    "details_url": "https://jasu2025.eu/innovation-details.php?id=470",
+    "booth_url": "https://jasu2025.eu/virtual-booth.php?id=470",
+    "section": "Інтернет-технології та вебдизайн",
+    "author": "Автор: Остапів Назар Вікторович"
+  },
+  {
+    "id": "471",
+    "title": "Розробка інтерактивної платформи для навчання програмуванню з використанням Docker-контейнеризації",
+    "branch": "Інформаційні технології",
+    "region": "Одеська",
+    "details_url": "https://jasu2025.eu/innovation-details.php?id=471",
+    "booth_url": "https://jasu2025.eu/virtual-booth.php?id=471",
+    "section": "Програмна інженерія",
+    "author": "Автор: Поправка Богдан Сергійович"
+  },
+  {
+    "id": "472",
+    "title": "Створення та друк стартової платформи для запуску дронів",
+    "branch": "Інформаційні технології",
+    "region": "Полтавська",
+    "details_url": "https://jasu2025.eu/innovation-details.php?id=472",
+    "booth_url": "https://jasu2025.eu/virtual-booth.php?id=472",
+    "section": "Інтернет-технології та вебдизайн",
+    "author": "Автор: Бровко Богдан Віталійович"
+  },
+  {
+    "id": "473",
+    "title": "Сучасні технології автоматизації: Google Таблиці як центр управління Telegram-ботами: можливості та перспективи",
+    "branch": "Інформаційні технології",
+    "region": "Рівненська",
+    "details_url": "https://jasu2025.eu/innovation-details.php?id=473",
+    "booth_url": "https://jasu2025.eu/virtual-booth.php?id=473",
+    "section": "Інтернет-технології та вебдизайн",
+    "author": "Автор: Леоновець Леся Анатоліївна"
+  },
+  {
+    "id": "474",
+    "title": "Створення рекомендацій покупок  за допомогою Apache Spark та Neo4j",
+    "branch": "Інформаційні технології",
+    "region": "Сумська",
+    "details_url": "https://jasu2025.eu/innovation-details.php?id=474",
+    "booth_url": "https://jasu2025.eu/virtual-booth.php?id=474",
+    "section": "Інтернет-технології та вебдизайн",
+    "author": "Автор: Павленко Володимир Іванович"
+  },
+  {
+    "id": "475",
+    "title": "Створення додатка для планування подорожей Україною",
+    "branch": "Інформаційні технології",
+    "region": "Тернопільська",
+    "details_url": "https://jasu2025.eu/innovation-details.php?id=475",
+    "booth_url": "https://jasu2025.eu/virtual-booth.php?id=475",
+    "section": "Інтернет-технології та вебдизайн",
+    "author": "Автор: Марішин Іван Андрійович"
+  },
+  {
+    "id": "476",
+    "title": "Програмний комплекс підготовки навчальних матеріалів для 3D-друку",
+    "branch": "Інформаційні технології",
+    "region": "Харківська",
+    "details_url": "https://jasu2025.eu/innovation-details.php?id=476",
+    "booth_url": "https://jasu2025.eu/virtual-booth.php?id=476",
+    "section": "Програмна інженерія",
+    "author": "Автор: Теляшенко Ярослав Дмитрович"
+  },
+  {
+    "id": "477",
+    "title": "Використання Google Workspace for Education для автоматизації щоденного замовлення харчування та надсилання рахунку щомісячного платежу",
+    "branch": "Інформаційні технології",
+    "region": "Хмельницька",
+    "details_url": "https://jasu2025.eu/innovation-details.php?id=477",
+    "booth_url": "https://jasu2025.eu/virtual-booth.php?id=477",
+    "section": "Інтернет-технології та вебдизайн",
+    "author": "Автор: Ільков Ярослав Олександрович"
+  },
+  {
+    "id": "478",
+    "title": "Сервіс для локальної ідентифікації зображень за допомогою ключових точок і Байєсівського класифікатора",
+    "branch": "Інформаційні технології",
+    "region": "Черкаська",
+    "details_url": "https://jasu2025.eu/innovation-details.php?id=478",
+    "booth_url": "https://jasu2025.eu/virtual-booth.php?id=478",
+    "section": "Програмна інженерія",
+    "author": "Автор: Половян Олексій Олексійович"
+  },
+  {
+    "id": "479",
+    "title": "Децентралізовані системи та їх використання у технологіях",
+    "branch": "Інформаційні технології",
+    "region": "Чернігівська",
+    "details_url": "https://jasu2025.eu/innovation-details.php?id=479",
+    "booth_url": "https://jasu2025.eu/virtual-booth.php?id=479",
+    "section": "Інтернет-технології та вебдизайн",
+    "author": "Автор: Мельник Всеволод Андрійович"
+  },
+  {
+    "id": "480",
+    "title": "Розробка інтерактивної візуальної новели за допомогою C# та Unity",
+    "branch": "Інформаційні технології",
+    "region": "м. Київ",
+    "details_url": "https://jasu2025.eu/innovation-details.php?id=480",
+    "booth_url": "https://jasu2025.eu/virtual-booth.php?id=480",
+    "section": "Програмна інженерія",
+    "author": "Автор: Лазоренко Георгій Сергійович"
+  },
+  {
+    "id": "481",
+    "title": "Розробка застосунку «Stress level detect»",
+    "branch": "Інформаційні технології",
+    "region": "Волинська",
+    "details_url": "https://jasu2025.eu/innovation-details.php?id=481",
+    "booth_url": "https://jasu2025.eu/virtual-booth.php?id=481",
+    "section": "Програмна інженерія",
+    "author": "Автор: Демчук Давид Андрійович"
+  },
+  {
+    "id": "482",
+    "title": "Дослідження патернів впливу дорожньо-транспортних пригод із застосуванням просторової аналітики та машинного навчання",
+    "branch": "Інформаційні технології",
+    "region": "Дніпропетровська",
+    "details_url": "https://jasu2025.eu/innovation-details.php?id=482",
+    "booth_url": "https://jasu2025.eu/virtual-booth.php?id=482",
+    "section": "Інтернет-технології та вебдизайн",
+    "author": "Автор: Чернишова Софія Юріївна"
+  },
+  {
+    "id": "483",
+    "title": "Інтерактивний словник для вивчення жестових мов з використанням комп’ютерного зору та відкритих баз даних",
+    "branch": "Інформаційні технології",
+    "region": "Донецька",
+    "details_url": "https://jasu2025.eu/innovation-details.php?id=483",
+    "booth_url": "https://jasu2025.eu/virtual-booth.php?id=483",
+    "section": "Комп’ютерна інженерія",
+    "author": "Автор: Теличко Микита Сергійович"
+  },
+  {
+    "id": "484",
+    "title": "Штучний інтелект: можливості та перспективи",
+    "branch": "Інформаційні технології",
+    "region": "Житомирська",
+    "details_url": "https://jasu2025.eu/innovation-details.php?id=484",
+    "booth_url": "https://jasu2025.eu/virtual-booth.php?id=484",
+    "section": "Системи та технології штучного інтелекту",
+    "author": "Автор: Казмірчук Катерина Павлівна"
+  },
+  {
+    "id": "485",
+    "title": "Розробка платформи для тестування знань учнів з використанням генеративного штучного інтелекту",
+    "branch": "Інформаційні технології",
+    "region": "Закарпатська",
+    "details_url": "https://jasu2025.eu/innovation-details.php?id=485",
+    "booth_url": "https://jasu2025.eu/virtual-booth.php?id=485",
+    "section": "Програмна інженерія",
+    "author": "Автор: Сухар Василь Васильович"
+  },
+  {
+    "id": "486",
+    "title": "Реконструкція зображень за допомогою машинного навчання",
+    "branch": "Інформаційні технології",
+    "region": "Івано-Франківська",
+    "details_url": "https://jasu2025.eu/innovation-details.php?id=486",
+    "booth_url": "https://jasu2025.eu/virtual-booth.php?id=486",
+    "section": "Інтернет-технології та вебдизайн",
+    "author": "Автор: Процюк Віталій Вікторович"
+  },
+  {
+    "id": "487",
+    "title": "Двонаправлені мовні моделі в аналізі освітніх матеріалів",
+    "branch": "Інформаційні технології",
+    "region": "Київська",
+    "details_url": "https://jasu2025.eu/innovation-details.php?id=487",
+    "booth_url": "https://jasu2025.eu/virtual-booth.php?id=487",
+    "section": "Системи та технології штучного інтелекту",
+    "author": "Автор: Ковтун Анна Олександрівна"
+  },
+  {
+    "id": "488",
+    "title": "Програма просторової орієнтації осіб з вадами зору",
+    "branch": "Інформаційні технології",
+    "region": "Кіровоградська",
+    "details_url": "https://jasu2025.eu/innovation-details.php?id=488",
+    "booth_url": "https://jasu2025.eu/virtual-booth.php?id=488",
+    "section": "Навчальні, ігрові програми та віртуальна реальність",
+    "author": "Автор: Ніколенко Владислав Анатолійович"
+  },
+  {
+    "id": "489",
+    "title": "Neural Alert: система на основі штучного інтелекту для попередження про повітряні тривоги",
+    "branch": "Інформаційні технології",
+    "region": "Львівська",
+    "details_url": "https://jasu2025.eu/innovation-details.php?id=489",
+    "booth_url": "https://jasu2025.eu/virtual-booth.php?id=489",
+    "section": "Комп’ютерна інженерія",
+    "author": "Автор: Яблонський Андрій Юрійович"
+  },
+  {
+    "id": "490",
+    "title": "Розробка додатка на базі штучного інтелекту для діагностування авто",
+    "branch": "Інформаційні технології",
+    "region": "Полтавська",
+    "details_url": "https://jasu2025.eu/innovation-details.php?id=490",
+    "booth_url": "https://jasu2025.eu/virtual-booth.php?id=490",
+    "section": "Програмна інженерія",
+    "author": "Автор: Гречка Костянтин Романович"
+  },
+  {
+    "id": "491",
+    "title": "Прогнозування часових рядів методами машинного навчання нейронних мереж Кохонена",
+    "branch": "Інформаційні технології",
+    "region": "Рівненська",
+    "details_url": "https://jasu2025.eu/innovation-details.php?id=491",
+    "booth_url": "https://jasu2025.eu/virtual-booth.php?id=491",
+    "section": "Системи та технології штучного інтелекту",
+    "author": "Автор: Онищук Богуслав Ігорович"
+  },
+  {
+    "id": "492",
+    "title": "Застосування нейронних мереж для ідентифікації безпілотних літальних апаратів",
+    "branch": "Інформаційні технології",
+    "region": "Сумська",
+    "details_url": "https://jasu2025.eu/innovation-details.php?id=492",
+    "booth_url": "https://jasu2025.eu/virtual-booth.php?id=492",
+    "section": "Системи та технології штучного інтелекту",
+    "author": "Автор: Радько Євген Олександрович"
+  },
+  {
+    "id": "493",
+    "title": "Система аналізу ґрунтів «SoilLens AI»",
+    "branch": "Інформаційні технології",
+    "region": "Тернопільська",
+    "details_url": "https://jasu2025.eu/innovation-details.php?id=493",
+    "booth_url": "https://jasu2025.eu/virtual-booth.php?id=493",
+    "section": "Комп’ютерна інженерія",
+    "author": "Автор: Савчинський Іван Васильович"
+  },
+  {
+    "id": "494",
+    "title": "Система підтримки прийняття рішень при діагностуванні пацієнтів",
+    "branch": "Інформаційні технології",
+    "region": "Харківська",
+    "details_url": "https://jasu2025.eu/innovation-details.php?id=494",
+    "booth_url": "https://jasu2025.eu/virtual-booth.php?id=494",
+    "section": "Комп’ютерна інженерія",
+    "author": "Автор: Гончаренко Альона Віталіївна"
+  },
+  {
+    "id": "495",
+    "title": "Система автоматичного виявлення, ідентифікації та геолокації об’єктів за відеозображенням з безпілотних літальних апаратів",
+    "branch": "Інформаційні технології",
+    "region": "Черкаська",
+    "details_url": "https://jasu2025.eu/innovation-details.php?id=495",
+    "booth_url": "https://jasu2025.eu/virtual-booth.php?id=495",
+    "section": "Комп’ютерна інженерія",
+    "author": "Автор: Лисак Максим Володимирович"
+  },
+  {
+    "id": "496",
+    "title": "Прогнозування часових рядів з використанням спайкових нейронних мереж та резервуарних обчислень",
+    "branch": "Інформаційні технології",
+    "region": "м. Київ",
+    "details_url": "https://jasu2025.eu/innovation-details.php?id=496",
+    "booth_url": "https://jasu2025.eu/virtual-booth.php?id=496",
+    "section": "Системи та технології штучного інтелекту",
+    "author": "Автор: Сидорчук Андрій Вікторович"
+  }
+]
